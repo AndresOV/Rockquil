@@ -16,6 +16,7 @@ public class BatallaCampo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // NUEVA LINEA ANDRES 13:38
         VntBienvenido vb =new VntBienvenido();
         vb.setVisible(true);
     }
